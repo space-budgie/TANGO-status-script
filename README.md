@@ -1,4 +1,6 @@
-This is a small script that allows you to view the status of specified devices in specified states. For example, you can view all powersupplies, matching a specific pattern, that are in OFF state.
+#### Status Monitor Script
+
+This is a small script that allows you to view the status of specified TANGO devices in specified states. For example, you can view all powersupplies, matching a specific pattern, that are in OFF state.
 
 #### Usage
 ```
